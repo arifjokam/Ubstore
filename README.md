@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ubstore
 
 ## Project setup
