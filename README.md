@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# shayna
+# Ubstore
 
 ## Project setup
 ```
